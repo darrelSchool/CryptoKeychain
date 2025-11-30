@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///home/darrel/School/Cryptography/SemProject1/Proj1_Starter/lib/app/layout.jsx"],"sourcesContent":["import \"./globals.css\";\nexport default function RootLayout({ children }) {\n  return (\n    <html lang=\"en\">\n      <head></head>\n      <body>{children}</body>\n    </html>\n  );\n}\n"],"names":[],"mappings":";;;;;;;AACe,SAAS,WAAW,EAAE,QAAQ,EAAE;IAC7C,qBACE,8OAAC;QAAK,MAAK;;0BACT,8OAAC;;;;;0BACD,8OAAC;0BAAM;;;;;;;;;;;;AAGb"}},
+    {"offset": {"line": 38, "column": 0}, "map": {"version":3,"sources":["file:///home/darrel/School/Cryptography/SemProject1/Proj1_Starter/lib/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}
